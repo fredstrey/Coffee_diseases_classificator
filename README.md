@@ -13,3 +13,5 @@ Para estes testes, foram utilizados imagens novas, que não fazem parte dos dado
 
 Analizando os resultados dos testes feitos, é possivel visualizar que o modelo apresentou boa precisão, conseguindo acertar a classificação de quase 100% para folhas saudáveis ou com Phoma. Para os casos de Bicho mineiro e Ferrugem, o modelo conseguiu fazer previsões com precisão de 78% e 83%, respectivamente.
 
+
+
